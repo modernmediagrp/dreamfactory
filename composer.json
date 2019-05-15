@@ -54,7 +54,7 @@
     "dreamfactory/df-core":            "~0.14.2",
     "dreamfactory/df-couchbase":       "~0.10.1",
     "dreamfactory/df-couchdb":         "~0.15.1",
-    "dreamfactory/df-email":           "~0.8.0",
+    "dreamfactory/df-email":           "~0.8.1",
     "dreamfactory/df-file":            "~0.6.2",
     "dreamfactory/df-filemanager-app": "~0.3.0",
     "dreamfactory/df-firebird":        "~0.7.1",
